@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotiranipanda" alt="jyotiranipanda" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jyotiranipanda5" target="blank"><img src="https://img.shields.io/twitter/follow/jyotiranipanda5?logo=twitter&style=for-the-badge" alt="jyotiranipanda5" /></a> </p>
+<p align="left"> <a href="https://twitter.comJarvis Virtual Assistantjyotiranipanda5" target="blank"><img src="https://img.shields.io/twitter/follow/jyotiranipanda5?logo=twitter&style=for-the-badge" alt="jyotiranipanda5" /></a> </p>
 
-- 🔭 I’m currently working on **Credit card Fraud Detection**
+- 🔭 I’m currently working on **Jarvis Virtual Assistant**
 
 - 🌱 I’m currently learning **Machine learning, Data Analysis & HR Practices**
 
